@@ -1,1 +1,7 @@
-[{"title":"Book","imageUrl":"https://thumbs-prod.si-cdn.com/c0VP9nb5bbooVSqQEjHk3q9S35c=/800x600/filters:no_upscale()/https://public-media.si-cdn.com/filer/91/91/91910c23-cae4-46f8-b7c9-e2b22b8c1710/lostbook.jpg","description":"sdfadf","price":"12","id":"0.21449233662688316"}]
+[{
+    "title": "Book",
+    "imageUrl": "https://thumbs-prod.si-cdn.com/c0VP9nb5bbooVSqQEjHk3q9S35c=/800x600/filters:no_upscale()/https://public-media.si-cdn.com/filer/91/91/91910c23-cae4-46f8-b7c9-e2b22b8c1710/lostbook.jpg",
+    "description": "sdfadf",
+    "price": "12",
+    "id": "0.21449233662688316"
+}]
